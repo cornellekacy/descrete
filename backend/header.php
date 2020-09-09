@@ -87,8 +87,8 @@ session_start();
 
                         <!-- Profile -->
                         <li><a href="logout.php"><i class="fa fa-power-off"></i> Logout</a></li>
-                        <li style="margin-left: 20px"><a href="../track.php"> Track Package</a></li>
-                        <li style="margin-left: 20px"><a href="../index.php"> Back To Homepage</a></li>
+                        <li style="margin-left: 20px"><a href="../track.html"> Track Package</a></li>
+                        <li style="margin-left: 20px"><a href="../index.html"> Back To Homepage</a></li>
              
                     </ul>
 
